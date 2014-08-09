@@ -25,6 +25,7 @@
   },
   "session": {},
   "analytics": {
+    "secret": "bfksfysa7e32kdhayu292sz",
     "id": null,
     "render-id": null
   },
