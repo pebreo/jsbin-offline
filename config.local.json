@@ -23,9 +23,12 @@
       "collate": "utf8mb4_unicode_ci"
     }
   },
-  "session": {},
+  "session": {
+    "secret": "bfksfysa7e32kdhayu292sz"
+    
+  },
   "analytics": {
-    "secret": "bfksfysa7e32kdhayu292sz",
+    
     "id": null,
     "render-id": null
   },
